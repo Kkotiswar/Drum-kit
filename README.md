@@ -1,2 +1,2 @@
 # Drum-kit
-A simple projects using js
+A simple musical instrument game using javascript functionalities
